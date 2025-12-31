@@ -17,5 +17,8 @@
     "creation"
   ],
   "author": "Deepu Kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
 }
