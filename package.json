@@ -1,0 +1,21 @@
+{
+  "name": "projectmanagementbackend",
+  "version": "1.0.0",
+  "description": "a project management application for beginner in  backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "projectManagementBackend"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Deepu Kumar",
+  "license": "ISC"
+}
